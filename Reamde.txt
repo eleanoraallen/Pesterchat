@@ -1,0 +1,30 @@
+Pesterchat is a chatroom application inspired by Pesterchum, a fictional instant messaging service from a webcomic. I'm aware of how uncool I am please shut up.
+
+Features: With this program you can pick a username and a text color and talk to other people in a chat room. Revolutionary.
+
+How to Setup the Program:
+1) Extract and run the server program on you or a friend’s computer and take down that computer’s ip adress.
+2) Extract but do not run the client program. Enter the ip adress of the server computer into the text file labeled “server_ip.”
+3) Run the client program. Make sure not to remove the client program or any files from the folder. 
+
+User Guide:
+When you first run the client program you should be taken to a screen that prompts you to choose a username and text color. 
+The field that is being edited should be indicated by a green dot to the left of the text. 
+If the dot is red, that means the username you have selected is already being used by someone in the chat room and you need to change it before you can enter.
+In order to switch between the fields you are editing, use the “up” and “down” arrow keys. In order to join the chatroom, click on the “Launch!” button with your mouse. 
+
+After hitting the launch button you will enter the chatroom. In the upper left hand corner of the window will be a list of every user that is currently in the chatroom.
+In the bottom left hand corner of the window will be a series of six buttons which you can use to set and change your status.
+On the bottom right of the window is a field that will display the message you are currently typing that has not been sent. 
+The rest of the window shows messages and updates sent out by different users. 
+(Note: you will not be able to see messages or updates that where sent out before you logged into the chatroom, 
+nor will other users be able to see messages that where sent before they entered).
+
+In order to send a message, simply type it in and hit enter or press the “Pester!” button. To leave the chatroom simply quit the program.
+
+Notes:
+Usernames should probably contain exactly one capital letter and that capital letter should not be the first letter of the username.
+A list of acceptable text colors is available in the text file “available colors.” It is recommended that you choose a color that is easily visible on a white background.
+No one is able to see messages or updates that where sent out before theylogged into the chatroom. This is a privacy measure and cannot be changed.
+Statuses are pretty much pointless.
+You currently cannot copy or paste text into this application, nor can you send images.
