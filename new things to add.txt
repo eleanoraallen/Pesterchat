@@ -1,0 +1,4 @@
+Escape --> handle selection screen
+autoquirk
+random handle generation
+random color generation
