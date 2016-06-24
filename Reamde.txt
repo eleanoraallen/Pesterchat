@@ -1,4 +1,4 @@
-Pesterchat is a chatroom application inspired by Pesterchum, a fictional instant messaging service from a webcomic. I'm aware of how uncool I am please shut up.
+Pesterchat is a chatroom application inspired by Pesterchum, a fictional instant messaging service from Homestuck. I'm aware of how uncool I am please shut up.
 
 Features: With this program you can pick a username and a text color and talk to other people in a chat room. Revolutionary.
 
